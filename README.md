@@ -1,3 +1,4 @@
+![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)
 # 🚀 Blockchain-Crypto 🚀
     An illustration of blockchain and crypto technology by:
     - building my own very VERY simple form of Cryptocurrency (like bitcoin), 
